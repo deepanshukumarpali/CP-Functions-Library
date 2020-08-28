@@ -1,1 +1,3 @@
-# Important-Functions-for-CP
+## Important-Functions-for-CP
+
+ functions for CP in cpp/python
