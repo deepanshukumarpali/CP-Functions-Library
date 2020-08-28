@@ -17,9 +17,5 @@ def PrimeFactors(n):
 
 # Example Test Run
 
-"""
-
-n=30
-print(PrimeFactors(n))
-
-"""
+# n=30
+# print(PrimeFactors(n))
