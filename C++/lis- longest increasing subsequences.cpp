@@ -39,7 +39,7 @@ int main()
     
     // cout<<LIS(a)<<endl;
 
-    // output: 2 3 5 7 11 13 17 19 23 29
+    // output: 3
 
     return 0;
 }
