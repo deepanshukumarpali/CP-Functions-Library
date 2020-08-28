@@ -15,3 +15,5 @@ def primeN(n):
 
 # n=30
 # print(primeN(n))  
+
+# output:  [2, 3, 5, 7, 11, 13, 17, 19, 23, 29]

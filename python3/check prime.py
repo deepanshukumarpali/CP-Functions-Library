@@ -20,3 +20,5 @@ def isPrime(n):
 # b=31
 
 # print(isPrime(a),isPrime(b))
+
+# output:  False True

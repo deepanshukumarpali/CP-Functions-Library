@@ -19,3 +19,6 @@ def PrimeFactors(n):
 
 # n=30
 # print(PrimeFactors(n))
+
+
+# output:  [2, 3, 5]

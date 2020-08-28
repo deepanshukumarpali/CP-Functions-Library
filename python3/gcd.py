@@ -8,3 +8,5 @@ def gcd(a,b):
 # a=8
 # b=4
 # print(gcd(a,b))  
+
+# output:  4

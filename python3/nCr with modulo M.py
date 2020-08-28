@@ -14,3 +14,5 @@ def nCr(n, r, p=M):
 # n=30
 # r=1
 # print(nCr(n,r))
+
+# output:  10

@@ -13,3 +13,5 @@ def divisors(n):
 
 # n=30
 # print(divisors(n))
+
+# output:  {1, 2, 3, 5, 6, 10, 15, 30}
